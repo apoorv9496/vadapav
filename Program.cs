@@ -11,7 +11,7 @@ try
     var directory = await client.GetDirectoryAsync(directoryId);
     Console.WriteLine($"Selected directory name: {directory.Name}");
 
-    await client.DownloadDirectoryAsync("821f5ea6-b351-4ad9-8cd3-45f245e404ef", outputPath); 
+    await client.DownloadDirectoryAsync(directoryId, outputPath); 
 }
 catch (Exception ex)
 {
