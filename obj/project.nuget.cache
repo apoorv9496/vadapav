@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOs3jURhp84D9pvMA4eZMiXiduDrTxc8/j5G7ZX+TFYzG8Cqp37i5hn/BBKut+dkC6P4W6v/yrPhaJURbtd6vg==",
+  "success": true,
+  "projectFilePath": "/Users/ajax/Desktop/playground/MyCSharpProject/MyCSharpProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajax/.nuget/packages/vadapav/1.0.5/vadapav.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

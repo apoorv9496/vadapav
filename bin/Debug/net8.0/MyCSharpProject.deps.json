@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyCSharpProject/1.0.0": {
+        "dependencies": {
+          "Vadapav": "1.0.5"
+        },
+        "runtime": {
+          "MyCSharpProject.dll": {}
+        }
+      },
+      "Vadapav/1.0.5": {
+        "runtime": {
+          "lib/net8.0/Vadapav.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCSharpProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vadapav/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YX1+neaT0McmeOc+fnGwxXyUDBOrUBiDXR1Py4cW5tbQuPtkr7VqnxmIEp3tAGNV+/P6TGmnwWgoS6elZ2Jyuw==",
+      "path": "vadapav/1.0.5",
+      "hashPath": "vadapav.1.0.5.nupkg.sha512"
+    }
+  }
+}
